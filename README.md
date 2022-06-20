@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+##I'm a development engineer and now a project manager.
+
+- 🔭 I’m currently working on freight forwarder system development,
+- 🌱 I’m currently learning golang,
+- 👯 I’m looking to collaborate on develop more systems,
+- 🤔 I’m looking for help with the development team,
+- ⚡ Fun fact: SEO,CMS,Spider,Forwarder and Cargo Container.
+
 <!--
 **jiangjilu/jiangjilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
