@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm a development engineer and now a project manager.
+## I'm a development engineer and now a project manager.
 
 - 🔭 I’m currently working on freight forwarder system development,
 - 🌱 I’m currently learning golang,
