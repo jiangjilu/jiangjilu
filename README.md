@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Web Development Engineer | Full-Stack Developer | Project Manager
+# Web Development | Full-Stack Developer | Project Manager
 
 - 🔭 I’m currently working on freight forwarder system development,
 - 🌱 I’m currently learning golang,
@@ -18,6 +16,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+
 
 <!--
 **jiangjilu/jiangjilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
