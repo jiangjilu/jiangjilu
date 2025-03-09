@@ -1,10 +1,10 @@
 # Web Development | Full-Stack Developer | Project Manager
 
-- 🔭 I’m currently working on freight forwarder system development,
-- 🌱 I’m currently learning golang,
+- 🔭 I’m currently working on E-Commerce And freight forwarder system development,
+- 🌱 I’m currently learning LLM、golang,
 - 👯 I’m looking to collaborate on develop more systems,
 - 🤔 I’m looking for help with the development team,
-- ⚡ Fun fact: SEO,CMS,Spider,Forwarder and Cargo Container.
+- ⚡ Fun fact: AI,LLM,SEO,CMS,Spider,Forwarder and Cargo Container.
 
 ## Languages
 
